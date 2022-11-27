@@ -1,0 +1,8 @@
+APP IDEA : Health tracker
+APP NAME : Well-Being App
+NEED OF THE APP : We dont have any track of our steps, BpM, Spo2 etc. This app helps in keeping record of your health on a weekly basis with a goal to achieve. 
+WHAT THE APP HAS TO DO :   1.Record the number of steps per day.
+					2. Sets the goal for us to achieve in order to stay healthy
+					3. Calculate the body BpM/BMI based on the factors.
+					4. Keeps a record on our Calorie intake.
+					
